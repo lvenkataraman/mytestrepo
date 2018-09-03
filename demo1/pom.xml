@@ -21,11 +21,10 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<target.dir>c:\target\demo1\classes\</target.dir>
 		<java.version>1.8</java.version>
 	</properties>
-	<properties>
-		<target.dir>c:\target\demo1\classes\</target.dir>
-	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
